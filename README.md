@@ -1,0 +1,1 @@
+Use `SYSEVENT STGTEST` and `SYSEVENT FREEAUX1` to determine how much memory is probably available on a z/OS system without unduly stressing it.

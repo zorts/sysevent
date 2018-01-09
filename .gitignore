@@ -1,0 +1,7 @@
+*.o
+*.dbg
+*.lst
+*.ad
+*~
+.d/
+sysevent
